@@ -1,2 +1,2 @@
-# avalanche
-AVA Labs
+# Avalanche
+Traducción al español del paper "Snowflake to Avalanche: A Novel Metastable Consensus Protocol Family for Cryptocurrencies".
